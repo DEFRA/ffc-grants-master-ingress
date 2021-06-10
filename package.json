@@ -1,6 +1,6 @@
 {
   "name": "ffc-grants-master-ingress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helm chart for FTF checker master ingress",
   "repository": {
     "type": "git",
