@@ -7,9 +7,5 @@ labels: {}
 
 ingress:
   class: nginx
-  endpoint: ffc-grants-master-ingress
+  endpoint: check-ftf
   server: example.com
-
-service:
-  port: 80
-  type: ClusterIP
