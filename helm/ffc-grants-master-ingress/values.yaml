@@ -1,0 +1,15 @@
+environment: development
+name: ffc-grants-master-ingress
+namespace: ffc-grants
+workstream: ffc-grants
+
+labels: {}
+
+ingress:
+  class: nginx
+  endpoint: ffc-grants-master-ingress
+  server: example.com
+
+service:
+  port: 80
+  type: ClusterIP

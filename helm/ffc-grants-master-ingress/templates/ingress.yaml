@@ -1,0 +1,3 @@
+{{- include "ffc-helm-library.azure-ingress-master" (list . "ffc-grants-master-ingress.ingress") -}}
+{{- define "ffc-grants-master-ingress.ingress" -}}
+{{- end -}}
