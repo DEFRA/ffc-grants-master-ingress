@@ -1,0 +1,11 @@
+environment: development
+name: ffc-grants-master-ingress
+namespace: ffc-grants
+workstream: ffc-grants
+
+labels: {}
+
+ingress:
+  class: nginx
+  endpoint: check-ftf
+  server: example.com

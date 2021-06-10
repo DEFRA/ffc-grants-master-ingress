@@ -1,0 +1,12 @@
+{
+  "name": "ffc-grants-master-ingress",
+  "version": "1.0.0",
+  "description": "Helm chart for FTF checker master ingress",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEFRA/ffc-grants-master-ingress.git"
+  },
+  "author": "Defra DDTS",
+  "license": "OGL-UK-3.0",
+  "homepage": "https://github.com/DEFRA/ffc-grants-master-ingress#readme"
+}
