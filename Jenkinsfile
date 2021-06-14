@@ -1,3 +1,3 @@
-@Library('defra-library@fix/helm-only-trigger-deploy') _
+@Library('defra-library@v-9') _
 
 buildHelm()
