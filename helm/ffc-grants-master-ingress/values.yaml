@@ -7,5 +7,5 @@ labels: {}
 
 ingress:
   class: nginx
-  endpoint: check-ftf
+  endpoint: ffc-grants-frontend
   server: example.com
